@@ -1,6 +1,6 @@
 <h2 align= center> calendarLib 天干地支纪年法库 </h2>
 
-<h5 align=right> 张懿 </h5>
+<h5 align=right> 极客点儿 </h5>
 <p align=right> 2019-09-11 </p>
 
 ### 一、概述
